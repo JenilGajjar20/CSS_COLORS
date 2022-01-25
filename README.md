@@ -1,6 +1,6 @@
 # CSS Color
 
-Color can easily bring you pages to life. Here, we will look at:
+Color can easily bring your pages to life. Here, we will look at:
 
 - How to specify colors, as there are three common ways in which you can indicate your choice of colors.
 - Color terminology, as there are some terms that are very helpful to understand when it comes to picking colors.
